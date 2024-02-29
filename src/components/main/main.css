@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.main{
+    margin-top: 200px;
+}
+
+.textTitle{
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 100px;
+}
+
+.textSub{
+    font-size: 50px;
+}
+
+.textDesc{
+    font-size: 25px;
+    font-weight: 500;
+    color: rgb(49, 49, 49);
+}
+
+.img3d{
+    margin-left: 950px;
+    margin-top: -150px;
+}
+
+.btnBuy{
+    background-color: red;
+    font-family: "Rubik", sans-serif;
+    font-size:  20px;
+    font-weight: 500;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    height: 50px;
+    width: 150px;
+    margin-left: 260px;
+    margin-top: -90px;
+    border: none;
+}

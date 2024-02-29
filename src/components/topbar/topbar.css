@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+    font-family: "Rubik", sans-serif;
+}
+
+.topbar{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+.topbarWrapper{
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imgLogo{
+    height: 80px;
+    width: 130px;
+    justify-content: space-between;
+}
+
+.topLeft{
+    margin-top: 30px;
+}
+
+.topRight{
+    margin-top: 30px;
+    font-weight: 800;
+    font-size: large;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+    margin-right: 200px;
+}
+
+.btnLogin{
+    background-color: black;
+    font-family: "Rubik", sans-serif;
+    color: white;
+    border-radius: 20px;
+    all: unset;
+    cursor: pointer;
+}
